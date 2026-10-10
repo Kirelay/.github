@@ -1,0 +1,27 @@
+name: Feature request
+description: Suggest a focused improvement for this repository.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Who is affected, and what are they trying to accomplish?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: Describe the behavior you need and how you would know it works.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Existing workflows, workarounds, or other approaches.
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Optional examples or mockups using sample content, without private information.

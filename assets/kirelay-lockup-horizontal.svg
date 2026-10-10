@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1804 512" width="1804" height="512" role="img">
+  <title>KIRELAY</title>
+  <rect x="56" y="56" width="400" height="400" rx="104" fill="#F2E9DB"/>
+  <g fill="none" stroke="#101820" stroke-width="42.0" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M176.0 154.7 L176.0 378.7"/>
+    <path d="M176.0 258.7 L216.0 258.7 A104.0 104.0 0 0 0 320.0 154.7 M176.0 258.7 L216.0 258.7 A120.0 120.0 0 0 1 336.0 378.7"/>
+  </g>
+  <circle cx="248.0" cy="134.7" r="22.4" fill="#008264"/>
+  <g transform="translate(568 157.8)">
+  <g transform="translate(23.2 23.2) scale(1.5000)" fill="none" stroke="#101820" stroke-width="31" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(0.0 0)" d="M0 0V100 M0 64L62 2 M31 33L64 100"/>
+    <path transform="translate(129.0 0)" d="M0 0V100"/>
+    <path transform="translate(194.0 0)" d="M0 100V0H30A26 26 0 0 1 30 52H0 M30 52L60 100"/>
+    <path transform="translate(319.0 0)" d="M52 0H0V100H52 M0 50H44"/>
+    <path transform="translate(436.0 0)" d="M0 0V100H50"/>
+    <path transform="translate(551.0 0)" d="M0 100L36 0L72 100 M13 64H59"/>
+    <path transform="translate(688.0 0)" d="M0 0L34 50L68 0 M34 50V100"/>
+  </g>
+  </g>
+</svg>

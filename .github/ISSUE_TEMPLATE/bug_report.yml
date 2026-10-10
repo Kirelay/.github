@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a reproducible problem in this repository.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues first. Use sample content and remove credentials, private writing, and personal information. For security vulnerabilities, use the repository's published private reporting channel if available instead of this public form.
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: Include the app version, build, or commit where the issue occurs.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Relevant OS, device, browser, runtime, or deployment environment.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include a minimal example using sample data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Optional, redacted evidence and any workaround you found.
