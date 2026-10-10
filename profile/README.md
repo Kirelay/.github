@@ -1,18 +1,39 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/kirelay-lockup-horizontal-dark.svg">
-  <img src="../assets/kirelay-lockup-horizontal.svg" alt="Kirelay" width="360">
-</picture>
+<img src="../assets/kirelay-editorial-cover.png" alt="Kirelay · Collaborative storytelling. A story worth continuing." width="100%">
 
-## Stories grow through collaboration
+<p align="center">
+  <a href="https://kirelay.com"><strong>Explore Kirelay ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Kirelay/.github/blob/main/CONTRIBUTING.md">Contribute</a>
+</p>
 
-Kirelay is a collaborative storytelling platform for continuing stories and exploring new branches. Writers can build on a shared beginning, take a story in another direction, and discover where others carry it next.
+## Every story opens another possibility.
 
-Our work spans the storytelling platform, an Android client, and Kirelay Studio, a local-first writing tool for exploring branches and preserving creative history. These projects are under development; availability and supported features vary by project.
+Kirelay is a collaborative storytelling platform for continuing stories and exploring new branches. Start with a shared beginning, take it in a new direction, and discover where another writer carries it next.
 
-[Explore Kirelay](https://kirelay.com)
+**Write together.** Build on a story someone else has begun.
 
-## Contributing
+**Explore another path.** Let different continuations grow from the same moment.
 
-For projects available here, start with the repository's README and contribution guidelines. Use its issue tracker for reproducible bugs and focused feature suggestions, and describe what you tested when submitting a pull request.
+**Keep creating.** Give each idea room to become its own story.
 
-Small improvements to documentation, accessibility, and the writing experience are welcome.
+---
+
+### Across the Kirelay projects
+
+| Project | Focus |
+| --- | --- |
+| **Kirelay** | Collaborative stories, shared beginnings, and branching paths. |
+| **Kirelay for Android** | Bringing the storytelling experience to mobile. |
+| **Kirelay Studio** | Local-first writing, creative history, and room to explore alternatives. |
+
+These projects are under development. Availability and supported features vary by project.
+
+### Build with us
+
+Improvements to documentation, accessibility, and the writing experience are welcome. Start with a project's README, describe the problem you want to solve, and share what you verified.
+
+[Read the contribution guide →](https://github.com/Kirelay/.github/blob/main/CONTRIBUTING.md)
+
+---
+
+<p align="center"><sub>Kirelay · Collaborative storytelling</sub></p>

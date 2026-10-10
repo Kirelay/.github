@@ -1,10 +1,10 @@
-# 组织公开仓库维护约定
+# Public organization repository instructions
 
-- 先读 README.md，检查 Git 状态并保留用户修改。
-- 这里只维护公开组织主页、品牌资产和默认协作文件，不添加产品应用代码。
-- 对外主页及贡献模板使用英文，维护说明使用中文，文件名与提交信息使用英文。
-- 品牌以同级资源工作区 `../../kirelay-resource/brand/` 为来源；已导入资产的来源与 SHA-256 记录在 assets/README.md。不要手改 Logo 图形。
-- 不公开内部路径、个人资料、凭证或尚未确认的联系渠道；不虚构项目可见性、发布状态、测试结果或许可证。
-- 改动后检查相对链接、YAML、模板必填项与 git diff --check；主页视觉改动检查浅色、深色及窄屏。不能把本地检查描述为线上验收。
-- GitHub 默认协作文件不使本文件成为其他仓库的自动指令。
-- 仅在用户授权范围内提交、创建远程或推送。
+- Read README.md and inspect Git status before editing. Preserve existing user changes.
+- Use English for every document, template, maintenance note, and asset record in this public repository. The private repository uses Chinese. This supersedes the earlier audience-based language split for these two organization repositories.
+- Maintain the public profile, shared contribution files, and brand assets here; keep application code in its own repository.
+- Use the Kirelay resource library as the source of artwork and color rules. Record source paths and SHA-256 hashes in assets/README.md. Copy original artwork without redrawing or recoloring it.
+- Never publish credentials, personal information, machine-specific paths, or unconfirmed contact channels. Do not invent project visibility, releases, validation results, or licenses.
+- Check relative links, YAML forms, and git diff --check after changes. For profile design changes, inspect light, dark, and narrow layouts and distinguish local previews from GitHub verification.
+- GitHub's community-file fallback does not make this file an instruction source for other repositories.
+- Commit, create remotes, and push only within the user's authorized scope.
